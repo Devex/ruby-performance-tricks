@@ -1,0 +1,5 @@
+ruby 2.5.0p0 (2017-12-25 revision 61468) [x86_64-darwin17]
+                      user     system      total        real
+rescue:          30.291419   0.117526  30.408945 ( 30.726517)
+condition:        1.473891   0.014273   1.488164 (  1.525201)
+rescue/condition 20.552008   8.234148        NaN ( 20.145880)

@@ -1,0 +1,3 @@
+                      user     system      total        real
+parallel          0.980000   0.000000   0.980000 (  0.987116)
+consequentially   0.560000   0.000000   0.560000 (  0.560625)

@@ -1,0 +1,5 @@
+ruby 2.3.5p376 (2017-09-14 revision 59905) [x86_64-darwin17]
+                      user     system      total        real
+rescue:          29.920000   0.120000  30.040000 ( 30.153108)
+condition:        1.500000   0.010000   1.510000 (  1.504572)
+rescue/condition 19.946667  12.000000        NaN ( 20.040987)

@@ -1,0 +1,5 @@
+                             user     system      total        real
+class_eval with string  28.710000   0.730000  29.440000 ( 29.674131)
+define_method            9.910000   0.320000  10.230000 ( 10.296990)
+string method            0.070000   0.000000   0.070000 (  0.073718)
+dynamic method           0.130000   0.000000   0.130000 (  0.126960)
