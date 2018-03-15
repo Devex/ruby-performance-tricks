@@ -22,6 +22,8 @@ class Metric
   end
 end
 
+puts RUBY_DESCRIPTION
+
 Benchmark.bm(22) do |x|
   x.report("class_eval with string") { Metric.class_eval_with_string }
   x.report("define_method")          { Metric.with_define_method     }

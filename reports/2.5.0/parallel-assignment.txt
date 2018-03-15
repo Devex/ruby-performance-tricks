@@ -1,3 +1,4 @@
+ruby 2.5.0p0 (2017-12-25 revision 61468) [x86_64-darwin17]
                       user     system      total        real
 parallel          1.153883   0.008241   1.162124 (  1.182201)
 consequentially   0.752531   0.002917   0.755448 (  0.757839)

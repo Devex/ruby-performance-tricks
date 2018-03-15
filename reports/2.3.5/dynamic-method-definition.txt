@@ -1,3 +1,4 @@
+ruby 2.3.5p376 (2017-09-14 revision 59905) [x86_64-darwin17]
                              user     system      total        real
 class_eval with string  28.710000   0.730000  29.440000 ( 29.674131)
 define_method            9.910000   0.320000  10.230000 ( 10.296990)

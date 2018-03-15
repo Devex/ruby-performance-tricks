@@ -10,6 +10,8 @@ end
 
 BASE_SIZE = 10
 
+puts RUBY_DESCRIPTION
+
 4.times do |factor|
   size   = BASE_SIZE * (10 ** factor)
   params = (0..size).to_a

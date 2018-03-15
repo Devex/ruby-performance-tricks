@@ -3,6 +3,8 @@ require 'benchmark'
 N = 1000
 BASIC_LENGTH = 10
 
+puts RUBY_DESCRIPTION
+
 5.times do |factor|
   length = BASIC_LENGTH * (10 ** factor)
   puts "_" * 60 + "\nLENGTH: #{length}"

@@ -18,5 +18,7 @@ class Metric
   end
 end
 
+puts RUBY_DESCRIPTION
+
 metric = Metric.new(100_000_000)
 metric.run

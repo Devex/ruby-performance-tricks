@@ -11,6 +11,8 @@ end
 N = 10_000
 array = (0..N).to_a
 
+puts RUBY_DESCRIPTION
+
 Benchmark.bm(10) do |x|
   x.report("merge!") { merge!(array) }
   x.report("merge")  { merge(array)  }

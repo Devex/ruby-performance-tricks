@@ -2,6 +2,8 @@ require 'benchmark'
 
 N = 10_000_000
 
+puts RUBY_DESCRIPTION
+
 Benchmark.bm(15) do |x|
   x.report('parallel') do
     N.times do
